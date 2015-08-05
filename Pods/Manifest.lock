@@ -1,0 +1,29 @@
+PODS:
+  - Alamofire (1.3.0)
+  - FluxKit (0.0.1)
+
+DEPENDENCIES:
+  - Alamofire (from `https://github.com/Alamofire/Alamofire.git`, branch `swift-2.0`)
+  - FluxKit (from `https://github.com/nubbel/FluxKit.git`, branch `swift-2.0`)
+
+EXTERNAL SOURCES:
+  Alamofire:
+    :branch: swift-2.0
+    :git: https://github.com/Alamofire/Alamofire.git
+  FluxKit:
+    :branch: swift-2.0
+    :git: https://github.com/nubbel/FluxKit.git
+
+CHECKOUT OPTIONS:
+  Alamofire:
+    :commit: 1a12318dcf6b6918687dd3babe28e521e8b8842c
+    :git: https://github.com/Alamofire/Alamofire.git
+  FluxKit:
+    :commit: a0a7a641e8baf405542fa8e21a87aee26c679aa4
+    :git: https://github.com/nubbel/FluxKit.git
+
+SPEC CHECKSUMS:
+  Alamofire: e57db85401895fda01783b3b9bda5b32d9f347ff
+  FluxKit: d777fb73967c98f225637d446698642bd3836ddd
+
+COCOAPODS: 0.38.2
